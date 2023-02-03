@@ -1,0 +1,2 @@
+서블릿이벤트
+https://devbox.tistory.com/entry/JSP-%EC%BB%A4%EB%84%A5%EC%85%98-%ED%92%80
